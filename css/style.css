@@ -1,0 +1,27 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #212121;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.41px;
+}
+a:hover {
+  color: #2196f3;
+}
+.menu {
+  background-color: white;
+}
+.header {
+  background-color: #2f303a;
+}
+h1 {
+  color: white;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 6%;
+}
