@@ -97,7 +97,9 @@ h1 {
   font-weight: 700;
   text-align: center;
 }
-
+.crewmate-section {
+  background-color: #f5f4fa;
+}
 .crewmate-name {
   font-size: 16px;
   font-weight: 500;
@@ -116,8 +118,6 @@ h1 {
 /* footer */
 footer {
   background-color: #2f303a;
-  width: 1600px;
-  height: 252px;
 }
 address {
   font-family: "Roboto", sans-serif;
